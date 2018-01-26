@@ -1,0 +1,19 @@
+{
+  "name": "personalwebsite",
+  "version": "1.0.0",
+  "description": "\"Alexis Slattery's website\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aslattery19/website.git"
+  },
+  "author": "Alexis Slattery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aslattery19/website/issues"
+  },
+  "homepage": "https://github.com/aslattery19/website#readme"
+}
